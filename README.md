@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
