@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
