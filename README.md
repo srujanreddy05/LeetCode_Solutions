@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
