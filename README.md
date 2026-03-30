@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1314-matrix-block-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sliding Window
 |  |
