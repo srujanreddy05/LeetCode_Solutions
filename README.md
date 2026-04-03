@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Matrix
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
