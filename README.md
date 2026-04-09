@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -195,9 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
