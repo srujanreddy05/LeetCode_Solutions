@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -221,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
