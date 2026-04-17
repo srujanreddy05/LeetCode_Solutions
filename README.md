@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0189-rotate-array) |
