@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
