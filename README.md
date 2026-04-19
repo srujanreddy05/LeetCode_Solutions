@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
