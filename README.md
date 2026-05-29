@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
