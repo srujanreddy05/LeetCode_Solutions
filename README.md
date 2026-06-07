@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
