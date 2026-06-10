@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String Matching
