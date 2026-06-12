@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
