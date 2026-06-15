@@ -1,21 +1,22 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int left = 0;
-        int right = n-1;
-        while(left <= right){
-            int mid = (left + right)/2;
-            if(nums[mid]==target){
+    return BinarySearch(nums,0,nums.size() - 1, target);
+    }
+    int BinarySearch(vector<int>& nums,int left, int right, int target){
+        if(left > right){
+            return -1;
+        }
+        int mid = left + (right - left) / 2;
+        if(nums[mid]==target){
                 return mid;
-            } 
-            else if (target > nums[mid]){
-                left = mid + 1;
+            }
+            if(nums[mid] < target){
+                return BinarySearch(nums,mid + 1,right,target);
             }
             else{
-                    right = mid - 1;
+                return BinarySearch(nums,left,mid - 1,target);
             }
-        }
-        return -1;
     }
+  
 };
