@@ -14,25 +14,24 @@ public:
       if(head == nullptr || head->next == nullptr){
         return head;
       }
-        vector<int> v;
-        ListNode* curr = head;
-        while(curr != nullptr){
-            if(curr->val < x)
-            v.push_back(curr->val);
-            curr = curr->next;
+      ListNode* curr = head;
+       ListNode* SmallerNode = new ListNode(0);
+       ListNode* SmallNode = SmallerNode;
+       ListNode* LargerNode = new ListNode(0);
+       ListNode* LargeNode = LargerNode;
+       while(curr != nullptr){
+        if(curr->val < x){
+            SmallNode->next = curr;
+            SmallNode = SmallNode->next;
         }
-        curr = head;
-        while(curr != nullptr){
-            if(curr->val >= x)
-            v.push_back(curr->val);
-            curr = curr->next;
+        else{
+            LargeNode->next = curr;
+            LargeNode = LargeNode->next;
         }
-        curr = head;
-        int index = 0;
-        while(curr != nullptr){
-            curr->val = v[index++];
-            curr = curr->next;
-        }
-        return head;
+        curr = curr->next;
+       }
+       LargeNode->next = nullptr;
+       SmallNode->next = LargerNode->next;
+       return SmallerNode->next;
     }
 };
