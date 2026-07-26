@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2487-remove-nodes-from-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
