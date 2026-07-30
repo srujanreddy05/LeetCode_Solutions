@@ -12,24 +12,37 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-      if(root == nullptr){
-        return true;
-      }  
-      return isMirror(root->left,root->right);
-    }
-    private: 
-    bool isMirror(TreeNode* p,TreeNode* q){
-        if(p == nullptr && q == nullptr){
+        if (root == nullptr)
             return true;
+
+        queue<TreeNode*> que;
+
+        que.push(root->left);
+        que.push(root->right);
+
+        while (!que.empty()) {
+            TreeNode* n1 = que.front();
+            que.pop();
+
+            TreeNode* n2 = que.front();
+            que.pop();
+
+            if (n1 == nullptr && n2 == nullptr)
+                continue;
+
+            if (n1 == nullptr || n2 == nullptr)
+                return false;
+
+            if (n1->val != n2->val)
+                return false;
+
+            que.push(n1->left);
+            que.push(n2->right);
+
+            que.push(n1->right);
+            que.push(n2->left);
         }
-        if(p == nullptr || q == nullptr){
-            return false;
-        }
-        if(p->val != q->val){
-            return false;
-        }
-        bool left = isMirror(p->left , q->right);
-        bool right = isMirror(p->right,q->left);
-        return left && right;
+
+        return true;
     }
 };
