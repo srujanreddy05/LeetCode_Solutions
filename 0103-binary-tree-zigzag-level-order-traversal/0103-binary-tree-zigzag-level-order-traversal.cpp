@@ -13,39 +13,28 @@ class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>> ans;
+        dfs(root, 0, ans);
+        return ans;
+    }
 
+private:
+    void dfs(TreeNode* root, int level, vector<vector<int>>& ans) {
         if (root == nullptr)
-            return ans;
+            return;
 
-        queue<TreeNode*> q;
-        q.push(root);
+        // Create a new level if it doesn't exist
+        if (level == ans.size())
+            ans.push_back(vector<int>());
 
-        bool flag = true;
-
-        while (!q.empty()) {
-            int size = q.size();
-            deque<int> level;
-
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-
-                if (flag)
-                    level.push_back(node->val);   // Left to Right
-                else
-                    level.push_front(node->val);  // Right to Left
-
-                if (node->left)
-                    q.push(node->left);
-
-                if (node->right)
-                    q.push(node->right);
-            }
-
-            ans.push_back(vector<int>(level.begin(), level.end()));
-            flag = !flag;
+        if (level % 2 == 0) {
+            // Even level: Left -> Right
+            ans[level].push_back(root->val);
+        } else {
+            // Odd level: Right -> Left
+            ans[level].insert(ans[level].begin(), root->val);
         }
 
-        return ans;
+        dfs(root->left, level + 1, ans);
+        dfs(root->right, level + 1, ans);
     }
 };
