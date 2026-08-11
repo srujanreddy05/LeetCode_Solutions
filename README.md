@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2094-finding-3-digit-even-numbers](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Hash Function
 |  |
