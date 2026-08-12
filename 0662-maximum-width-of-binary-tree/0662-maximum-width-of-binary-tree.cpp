@@ -10,48 +10,33 @@
  * };
  */
 class Solution {
+    vector<long long> firstIndex;
+    long long maxWidth = 0;
+
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        if (root == nullptr) {
-            return 0;
+        dfs(root, 0, 0);
+        return (int)maxWidth;
+    }
+
+private:
+    void dfs(TreeNode* root, int level, long long index) {
+        if (root == nullptr)
+            return;
+
+        // First node at this level
+        if (level == firstIndex.size()) {
+            firstIndex.push_back(index);
         }
 
-        queue<pair<TreeNode*, long long>> q;
-        q.push({root, 0});
+        // Normalize index
+        long long currIndex = index - firstIndex[level];
 
-        int ans = 0;
+        // Width of current level
+        maxWidth = max(maxWidth, currIndex + 1);
 
-        while (!q.empty()) {
-            int size = q.size();
-
-            long long minIndex = q.front().second;
-            long long first = 0;
-            long long last = 0;
-
-            for (int i = 0; i < size; i++) {
-                auto curr = q.front();
-                q.pop();
-
-                TreeNode* node = curr.first;
-
-                long long index = curr.second - minIndex;
-
-                if (i == 0)
-                    first = index;
-
-                if (i == size - 1)
-                    last = index;
-
-                if (node->left)
-                    q.push({node->left, 2 * index});
-
-                if (node->right)
-                    q.push({node->right, 2 * index + 1});
-            }
-
-            ans = max(ans, (int)(last - first + 1));
-        }
-
-        return ans;
+        // Use normalized index for children
+        dfs(root->left, level + 1, 2 * currIndex);
+        dfs(root->right, level + 1, 2 * currIndex + 1);
     }
 };
