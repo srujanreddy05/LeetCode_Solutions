@@ -10,30 +10,32 @@
  * };
  */
 class Solution {
-    vector<TreeNode*> ans;
-
 public:
     void flatten(TreeNode* root) {
-        preorder(root);
+        TreeNode* curr = root;
 
-        for (int i = 0; i + 1 < ans.size(); i++) {
-            ans[i]->left = nullptr;
-            ans[i]->right = ans[i + 1];
-        }
+        while (curr != nullptr) {
 
-        if (!ans.empty()) {
-            ans.back()->left = nullptr;
-            ans.back()->right = nullptr;
+            if (curr->left != nullptr) {
+                TreeNode* temp = curr->right;
+
+                curr->right = curr->left;
+                curr->left = nullptr;
+
+                TreeNode* rightMost = getRightMost(curr->right);
+
+                rightMost->right = temp;
+            }
+
+            curr = curr->right;
         }
     }
 
-    void preorder(TreeNode* root) {
-        if (root == nullptr)
-            return;
-
-        ans.push_back(root);
-
-        preorder(root->left);
-        preorder(root->right);
+private:
+    TreeNode* getRightMost(TreeNode* root) {
+        while (root->right != nullptr) {
+            root = root->right;
+        }
+        return root;
     }
 };
