@@ -11,22 +11,18 @@
  */
 class Solution {
 public:
+int i = 0;
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return build(preorder,0,preorder.size() - 1);
-        
+        return build(preorder,INT_MAX);
     }
     private :
-    TreeNode* build(vector<int>& preorder,int start , int end){
-        if (start > end)
-        return nullptr;
-
-        TreeNode* root = new TreeNode(preorder[start]);
-        int i = start + 1;
-        while (i <= end && preorder[i] < root->val){
-        i++;
+    TreeNode* build (vector<int>& preorder,int upperBound){
+        if(i == preorder.size() || preorder[i] > upperBound){
+            return nullptr;
         }
-        root->left = build(preorder, start + 1, i - 1);
-        root->right = build(preorder, i , end);
+        TreeNode* root = new TreeNode(preorder[i++]);
+        root->left = build (preorder,root->val);
+        root->right = build(preorder,upperBound);
         return root;
     }
 };
