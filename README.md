@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [1314-matrix-block-sum](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/1314-matrix-block-sum) |
 ## Divide and Conquer
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
