@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0146-lru-cache) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0200-number-of-islands) |
@@ -698,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0146-lru-cache) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/srujanreddy05/LeetCode_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
